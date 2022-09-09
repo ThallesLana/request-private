@@ -89,7 +89,7 @@ body{
     margin-bottom: 10px;
 }
 
-.btn{
+.btn_enviar{
     width: 100%;
     padding: 16px 0px;
     margin: 25px;
@@ -104,7 +104,7 @@ body{
     box-shadow: 0px 10px 40px -12px #00ff8052;
 }
 
-.btn:hover {
+.btn_enviar:hover {
     filter: brightness(80%);
     transition: 2s;
 }
